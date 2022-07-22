@@ -25,4 +25,4 @@ Finally, run ```python3 main.py``` or ```python main.py``` .
 If you find any bugs, and know how to fix them, please make a pull request. I'd greatly appreciate it. Same for optimizations (ie: automatic generation of captcha tokens). I'll view them every now and then and try to implement as much changes as I can.
 
 # License
-GPLV3. Please view [LICENSE.md](https://github.com/M4494/Roblox-Upload/blob/main/LICENSE.md) for more in
+GNU General Public License v3.0. Please view [LICENSE.md](https://github.com/M4494/Roblox-Upload/blob/main/LICENSE.md) for more information

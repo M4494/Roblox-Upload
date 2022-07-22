@@ -21,6 +21,8 @@ Then, replace the bot token [(you can see how here)](https://uploadi.ng/H5ddTK9x
 
 Finally, run ```python3 main.py``` or ```python main.py``` .
 
+PS: In order to make a valid file, you need to save it as **.rbxlx**. Quick tutorial is [here](https://uploadi.ng/i9rs4KIM)
+
 # Pull Requests
 If you find any bugs, and know how to fix them, please make a pull request. I'd greatly appreciate it. Same for optimizations (ie: automatic generation of captcha tokens). I'll view them every now and then and try to implement as much changes as I can.
 

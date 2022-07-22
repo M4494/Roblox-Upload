@@ -1,3 +1,9 @@
+"""
+THIS DOES NOT WORK!! Blame Herobrine for breaking this :(
+This was supposed to generate a captcha so that it's easier for you to input a captcha token.
+You can get a captcha token here: https://roblox-captcha-v2.herokuapp.com/
+(I don't own this website, so I do not know what it may log. However, I know that it works.)
+"""
 from flask import Flask, render_template
 import requests
 app = Flask(__name__)
